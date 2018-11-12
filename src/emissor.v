@@ -22,7 +22,8 @@ module emissor(CLK, CLR, CPU_event, state, BUS);
 		if (CLR) begin
 			state = 3'b001;
 			BUS = 6'b000000;
-		end else 
+		end else begin
+			BUS = 6'b000000;
 			case (state)
 				3'b001: begin // estado invalido
 					case (CPU_event)
@@ -103,5 +104,4 @@ module emissor(CLK, CLR, CPU_event, state, BUS);
 			endcase
 		end
 	end
-	
 endmodule 
