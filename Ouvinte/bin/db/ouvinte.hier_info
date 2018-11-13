@@ -1,0 +1,45 @@
+|ouvinte
+CLK => BUS[0]~reg0.CLK
+CLK => BUS[1]~reg0.CLK
+CLK => BUS[2]~reg0.CLK
+CLK => BUS[3]~reg0.CLK
+CLK => BUS[4]~reg0.CLK
+CLK => BUS[5]~reg0.CLK
+CLK => state[0]~reg0.CLK
+CLK => state[1]~reg0.CLK
+CLK => state[2]~reg0.CLK
+CLR => BUS[0]~reg0.ACLR
+CLR => BUS[1]~reg0.ACLR
+CLR => BUS[2]~reg0.ACLR
+CLR => BUS[3]~reg0.ACLR
+CLR => BUS[4]~reg0.ACLR
+CLR => BUS[5]~reg0.ACLR
+CLR => state[0]~reg0.PRESET
+CLR => state[1]~reg0.ACLR
+CLR => state[2]~reg0.ACLR
+CPU_event[0] => Decoder0.IN4
+CPU_event[0] => Equal0.IN9
+CPU_event[0] => Equal1.IN9
+CPU_event[1] => Decoder0.IN3
+CPU_event[1] => Equal0.IN8
+CPU_event[1] => Equal1.IN8
+CPU_event[2] => Decoder0.IN2
+CPU_event[2] => Equal0.IN7
+CPU_event[2] => Equal1.IN7
+CPU_event[3] => Decoder0.IN1
+CPU_event[3] => Equal0.IN6
+CPU_event[3] => Equal1.IN6
+CPU_event[4] => Decoder0.IN0
+CPU_event[4] => Equal0.IN5
+CPU_event[4] => Equal1.IN5
+state[0] <= state[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+state[1] <= state[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+state[2] <= state[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+BUS[0] <= BUS[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+BUS[1] <= BUS[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+BUS[2] <= BUS[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+BUS[3] <= BUS[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+BUS[4] <= BUS[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+BUS[5] <= BUS[5]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

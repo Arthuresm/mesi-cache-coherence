@@ -1,0 +1,25 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aluno\Desktop\Trabalhando\mesi-cache-coherence\bin\simulation\modelsim
+vemissor
+!i10b 1
+!s100 dC4n2;fCBnNkRU0oWia3f1
+I_3CdTm3>`_;6<8d^`Z@]b1
+VYO@`2kfSN<Q4_GLk7FhWZ2
+Z1 dC:\Users\Aluno\Desktop\Trabalhando\mesi-cache-coherence\bin\simulation\modelsim
+w1542111992
+8C:/Users/Aluno/Desktop/Trabalhando/mesi-cache-coherence/src/emissor.v
+FC:/Users/Aluno/Desktop/Trabalhando/mesi-cache-coherence/src/emissor.v
+L0 1
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1542113173.138000
+!s107 C:/Users/Aluno/Desktop/Trabalhando/mesi-cache-coherence/src/emissor.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Aluno/Desktop/Trabalhando/mesi-cache-coherence/src|C:/Users/Aluno/Desktop/Trabalhando/mesi-cache-coherence/src/emissor.v|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+C:/Users/Aluno/Desktop/Trabalhando/mesi-cache-coherence/src -O0

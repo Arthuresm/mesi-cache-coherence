@@ -1,0 +1,25 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aluno\Desktop\Trabalhando\mesi-cache-coherence\Ouvinte\bin\simulation\modelsim
+vouvinte
+!i10b 1
+!s100 AWTmczIJ5he>V>kIIb_1P1
+Ia>k=FGT>XAG[ZKoMIjRe]3
+VCTQaPK[Oj7chRBfIH?76^2
+Z1 dC:\Users\Aluno\Desktop\Trabalhando\mesi-cache-coherence\Ouvinte\bin\simulation\modelsim
+w1542113098
+8C:/Users/Aluno/Desktop/Trabalhando/mesi-cache-coherence/Ouvinte/src/ouvinte.v
+FC:/Users/Aluno/Desktop/Trabalhando/mesi-cache-coherence/Ouvinte/src/ouvinte.v
+L0 1
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1542113826.814000
+!s107 C:/Users/Aluno/Desktop/Trabalhando/mesi-cache-coherence/Ouvinte/src/ouvinte.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Aluno/Desktop/Trabalhando/mesi-cache-coherence/Ouvinte/src|C:/Users/Aluno/Desktop/Trabalhando/mesi-cache-coherence/Ouvinte/src/ouvinte.v|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+C:/Users/Aluno/Desktop/Trabalhando/mesi-cache-coherence/Ouvinte/src -O0
